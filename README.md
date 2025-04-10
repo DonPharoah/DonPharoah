@@ -1,4 +1,4 @@
-<h3 align="center">A Senior Software Engineer with + 20 years of experience, skilled in designing, developing, and maintaining complex software systems, with expertise in leading teams, optimizing performance, and implementing scalable solutions across diverse technologies.
+<h3 align="center">A Senior Software Developer with + 15 years of experience, skilled in designing, developing, and maintaining complex software systems, with expertise in leading teams, optimizing performance, and implementing scalable solutions across diverse technologies.
  for a couple of seconds
 A seasoned Senior Software Engineer with +20 years of experience designing and developing scalable, high-performance applications using modern technologies and agile methodologies.</h3>
 <img src="./profile-3d-contrib/profile-night-green.svg"/>
